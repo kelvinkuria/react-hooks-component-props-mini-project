@@ -21,7 +21,7 @@ const blogData = {
     },
     {
       id: 3,
-      title: "Function vs Class Components",
+      title: "Function vs and Class Components",
       preview: "React, meet OOJS.",
       minutes: 47,
     },
